@@ -20,7 +20,9 @@
     "dependencies": {
         "@elizaos/client-direct": "workspace:*",
         "@elizaos/core": "workspace:*",
+        "@elizaos/plugin-0g": "workspace:*",
         "@elizaos/plugin-bootstrap": "workspace:*",
+        "@elizaos/plugin-image-generation": "0.25.6-alpha.1",
         "@types/node": "^22.13.5",
         "json5": "2.2.3",
         "ts-node": "^10.9.2",
