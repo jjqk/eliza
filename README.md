@@ -8,7 +8,7 @@
 
 ## Video
 
-[Demo video](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
+[Demo video](https://meeting.tencent.com/crm/NXwp93v916)
 
 ## 🎯 Features
 
